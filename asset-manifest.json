@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mish4Nya/shop_app/static/css/main.74e28345.css",
+    "main.js": "/Mish4Nya/shop_app/static/js/main.78ce8465.js",
+    "index.html": "/Mish4Nya/shop_app/index.html",
+    "main.74e28345.css.map": "/Mish4Nya/shop_app/static/css/main.74e28345.css.map",
+    "main.78ce8465.js.map": "/Mish4Nya/shop_app/static/js/main.78ce8465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e28345.css",
+    "static/js/main.78ce8465.js"
+  ]
+}
