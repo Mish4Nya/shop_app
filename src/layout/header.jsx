@@ -1,6 +1,6 @@
 function Header() {
     return (
-        <nav className="pink darken-2">
+        <nav className="teal darken-3">
             <div className="container">
                 <div className="nav-wrapper">
                     <a href="!#" className="brand-logo">
@@ -8,7 +8,7 @@ function Header() {
                     </a>
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
                         <li>
-                            <a href="https://github.com/LizaPopyvanova/ShopBasket">Repository</a>
+                            <a href="https://github.com/Mish4Nya">Repository</a>
                         </li>
                     </ul>
                 </div>
